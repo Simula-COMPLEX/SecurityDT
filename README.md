@@ -1,5 +1,5 @@
 # Digital Twin-based Anomaly Detection in Cyber-physical Systems
-# Authors:Qinghua Xu<sup>1</sup> Shaukat Ali<sup>1</sup>; Tao Yue1<sup>2</sup>
+# Authors:Qinghua Xu<sup>1</sup>; Shaukat Ali<sup>1</sup>; Tao Yue1<sup>2</sup>
 1. Simula Research Laboratory, Norway
 2. Nanjing University of Aeronautics and Astronautics, China
 
