@@ -11,4 +11,4 @@ Cyber-Physical  Systems  (CPS)  are  susceptible  tovarious anomalies during the
 [Download](https://github.com/Simula-COMPLEX/SecurityDT)
 
 # Notes
-Please note that the datasets used in this paper are provided by [iTrust](https://itrust.sutd.edu.sg/).
+Please note that the datasets used in this paper are provided by [iTrust](https://itrust.sutd.edu.sg/). Due to copyright issues we can not include the datasets in the code.
