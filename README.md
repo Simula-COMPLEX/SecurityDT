@@ -1,7 +1,6 @@
 # Digital Twin-based Anomaly Detection in Cyber-physical Systems
-# Authors:Qinghua Xu<sup>1</sup>; Shaukat Ali<sup>1</sup>; Tao Yue<sup>2</sup>
+# Authors:Qinghua Xu<sup>1</sup>; Shaukat Ali<sup>1</sup>; Tao Yue<sup>1</sup>
 1. Simula Research Laboratory, Norway
-2. Nanjing University of Aeronautics and Astronautics, China
 
 # Conference: ICST 2021: International Conference on Software Testing, Verification and Validation
 # Abstract
